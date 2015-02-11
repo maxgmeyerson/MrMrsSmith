@@ -1,0 +1,99 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, img, ins, kbd, q, s, samp, small, strike, strong, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+h1 {
+	font-size: 60px;
+	font-family: GaramondPro, serif;
+	font-weight: bolder;
+}
+
+h2 {
+	font-size: larger;
+	font-family: Helvetica, sans-serif;
+	font-weight: 500;
+	text-align: justify;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	font-size: medium;
+	padding-bottom: 10px;
+	text-align: left;
+}
+
+#pictures {
+	margin: 0 110px 0 160px;
+	padding-right: 110px;
+	padding-left: 20px;
+}
+
+#mainBody {
+	line-height: 155%;
+	text-align: center;
+	margin: 20px 430px 20px 430px;
+}
+
+#jolie {
+	float: left;
+	width: 20%;
+	height: 20%;
+	margin-left: 20px;
+}
+
+#pitt {
+	float: right;
+	width: 20%;
+	height: 20%;
+}
+
+#redText {
+	color: red;
+}
+
+#date {
+	margin-top: 40px;
+	margin-bottom: -35px;
+}
+
+#author {
+	margin-top: 20px;
+}
+
+#gunfight {
+	width: 100%;
+}
+
+.italics {
+	font-style: italic;
+}
